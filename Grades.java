@@ -1,8 +1,8 @@
 public class Grades {
     public static void main(String[] args) {
-        String potions = "A";
-        String arithmancy = "B";
-        String charms = "A";
+        char potions = 'A';
+        char arithmancy = 'B';
+        char charms = 'A';
 
         System.out.println("Potions: " + potions);
         System.out.println("Arithmancy: " + arithmancy);
